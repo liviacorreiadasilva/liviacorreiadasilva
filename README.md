@@ -3,7 +3,7 @@ Olá, eu sou a Lívia Correia, estudante de Sistemas da Informção ❤︎
 
 ✨ Futura Desenvolvedora Web Front-end
 
-✨ Sou uma pessoa autodidata, gosto de aprender 
+✨ Sou uma pessoa autodidata, gosto de aprender coisas novas
 
 <!--tela total contagem estrela-->
  <div  align="center">     
