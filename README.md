@@ -1,7 +1,7 @@
 # Livia Correia
 Olá, eu sou a Lívia Correia, estudante de Sistemas da Informção ❤︎
 
-✨ Futura Desenvolvedora Web Front-end
+✨ Futuramente pretendo me especializar na área de Desenvolvedora Web Front-end
 
 ✨ Sou uma pessoa autodidata, gosto de aprender coisas novas
 
