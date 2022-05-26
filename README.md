@@ -17,15 +17,15 @@ Olá, eu sou a Lívia Correia, estudante de Sistemas da Informção ❤︎
 <!--foto icones das linguagens-->
   <div style="display: inline_block"><br>    
     <!--icone javascript-->
-  <img align="center" alt="Livia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="liviacorreiadasilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <!--icone-react-->
-    <img align="center" alt="Livia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <!--icone-html-->
-  <img align="center" alt="Livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="liviacorreiadasilva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <!--icone-css-->
-  <img align="center" alt="Livia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="liviacorreiadasilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <!--icone-python-->
-  <img align="center" alt="Livia-Python" height="30" width="40" 
+  <img align="center" alt="liviacorreiadasilva-Python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     
 </div>
