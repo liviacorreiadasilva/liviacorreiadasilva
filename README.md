@@ -7,7 +7,7 @@ Olá, eu sou a Lívia Correia, estudante de Sistemas da Informção ❤︎
 
 ✨ Possuo Habilidades com HTML,CSS, JavaScript e Python
 
-✨Cursando React e após concluir vou iniciar o curso de MySQL online na plataforma Digital Innovation one e Udemy
+✨Cursando React e após concluir vou iniciar o curso de MySQL online na plataforma  Digital Innovation one e Udemy
 
 
 
