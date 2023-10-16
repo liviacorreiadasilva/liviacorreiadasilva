@@ -1,14 +1,5 @@
 # Livia Correia
-Olá, eu sou a Lívia Correia, estudante de Sistemas da Informção ❤︎
-
-- Futuramente pretendo me especializar na área de Desenvolvedora Web Front-end
-
-- Gosto de aprender coisas novas !
-
--  Possuo Habilidades com HTML,CSS, JavaScript e Python;
-
-- Cursando React e após concluir vou iniciar o curso de MySQL online.
-
+Estudante de Sistemas da Informção ❤︎
 
 
 <!--tela total contagem estrela-->
