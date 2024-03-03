@@ -13,7 +13,7 @@ Ao pesquisar sobre as amplas areás no mundo da Tecnologia, e me encantei pela �
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviacorreiadasilva&layout=compact&langs_count=7&theme=dracula"/>
   
   </div>
-      HABILIDADES PARA DESENVOLVIMENTO WEB
+      HABILIDADES PARA DESENVOLVIMENTO WEB:
 <!--foto icones das linguagens-->
   <div style="display: inline_block"><br>    
     <!--icone javascript-->
@@ -23,14 +23,19 @@ Ao pesquisar sobre as amplas areás no mundo da Tecnologia, e me encantei pela �
   <img align="center" alt="liviacorreiadasilva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <!--icone-css-->
   <img align="center" alt="liviacorreiadasilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <DIV>
+   
+  CONHECIMENTO EM LINGUAGEM DE PROGRAMAÇÃO:
     <!--icone-python-->
   <img align="center" alt="liviacorreiadasilva-Python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     CONHECIMENTO EM FRAMEWORK
+     CONHECIMENTO EM FRAMEWORK:
       <!--icone-react-->
     <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     
     
+</div>
 </div>
   
   ##
