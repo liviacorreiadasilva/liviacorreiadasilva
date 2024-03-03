@@ -16,13 +16,14 @@ Ao pesquisar sobre as amplas are√°s no mundo da Tecnologia, e me encantei pela √
       HABILIDADES PARA DESENVOLVIMENTO WEB:
 <!--foto icones das linguagens-->
   <div style="display: inline_block"><br>    
-    <!--icone javascript-->
-  <img align="center" alt="liviacorreiadasilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+    
    <!--icone-html-->
   <img align="center" alt="liviacorreiadasilva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <!--icone-css-->
   <img align="center" alt="liviacorreiadasilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--icone javascript-->
+  <img align="center" alt="liviacorreiadasilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 
   <DIV> <BR>
    
