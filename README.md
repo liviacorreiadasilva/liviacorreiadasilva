@@ -11,7 +11,7 @@ Após pesquisar sobre as amplas areás no mundo da Tecnologia, me encantei pela 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviacorreiadasilva&layout=compact&langs_count=7&theme=dracula"/>
   
   </div>
-      <h4>  <b> HABILIDADES E CONHECIMENTOS EM TECNOLOGIAS </b> </h4>
+      <h4>  <b> HABILIDADES E CONHECIMENTOS  </b> </h4>
 <!--foto icones das linguagens-->
   <div style="display: inline_block"><br>    
     
@@ -26,6 +26,10 @@ Após pesquisar sobre as amplas areás no mundo da Tecnologia, me encantei pela 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <!--icone-react-->
     <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <!--icone vscode-->
+    <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src=" ![image](https://github.com/liviacorreiadasilva/liviacorreiadasilva/assets/99484483/44846a71-ac3f-4ff5-8c2f-7af6de5c7aa4)
+">
+    
     
     
 </div>
