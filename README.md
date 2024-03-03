@@ -13,7 +13,7 @@ Ao pesquisar sobre as amplas are√°s no mundo da Tecnologia, e me encantei pela √
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviacorreiadasilva&layout=compact&langs_count=7&theme=dracula"/>
   
   </div>
-      <h4>  HABILIDADES E CONHECIMENTOS EM TECNOLOGIAS </h4>
+      <h4>  <b> HABILIDADES E CONHECIMENTOS EM TECNOLOGIAS </b> </h4>
 <!--foto icones das linguagens-->
   <div style="display: inline_block"><br>    
     
@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   ##
   
   <!--Redes sociais-->
-  <h4> REDES SOCIAIS </h4> 
+  <h4> <b> REDES SOCIAIS  </b>  </h4> 
   
   <div>
          <!--Youtube--> 
