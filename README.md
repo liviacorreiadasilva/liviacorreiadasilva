@@ -31,7 +31,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
      <!--icone github-->
       <img align="center" alt=" " height="30" width="40" 
-     src="https://seeklogo.com/vector-logo/273183/github">
+     src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png">
      <!--icone construct-->
      <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/C/construct-logo-DF244B4ECA-seeklogo.com.png">
