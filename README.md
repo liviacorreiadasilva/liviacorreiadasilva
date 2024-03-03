@@ -30,8 +30,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
      <!--icone construct2-->
-      <img align="center" alt=" " height="30" width="40" 
-     src="https://construct-static.com/images/v1193/uploads/articleuploadobject/0/images/2396/construct2.png ">
+      <img align="center" alt="livia " height="30" width="40" 
+     src="https://construct-static.com/images/v1193/uploads/articleuploadobject/0/images/2396/construct2.png">
     
     
     
