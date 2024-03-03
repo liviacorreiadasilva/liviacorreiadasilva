@@ -1,5 +1,5 @@
-# Livia Correia
-❤Tenho 21 anos e sou estudante de Sistemas da Informção no Centro Universitario das Faculdades Metropolitanas Unidas em São Paulo.
+# ❤ Livia Correia
+Tenho 21 anos e sou estudante de Sistemas da Informção no Centro Universitario das Faculdades Metropolitanas Unidas em São Paulo.
 O meu interesse na faculdade escolhida foi após realizar um curso de Desenvolvimento de Jogos na Etec com a duração de 6 meses, no qual tive o primeiro contato com programação usando a  plataforma Construct2 que é um editor de codigo para jogos em 2D baseada em  HTML5 (outras tecnologias como  C++,  framework javascript e sistema logico baseado em comportamento Drag-and-drop).
 Ao pesquisar sobre as amplas areás no mundo da Tecnologia, e me encantei pela área de Desenvolvimento de Software e desde então venho estudando as tecnologias para trabalhar como Desenvolvedora Front-end.
 
@@ -13,7 +13,7 @@ Ao pesquisar sobre as amplas areás no mundo da Tecnologia, e me encantei pela �
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviacorreiadasilva&layout=compact&langs_count=7&theme=dracula"/>
   
   </div>
-      <H2> ❤ HABILIDADES E CONHECIMENTOS EM TECNOLOGIAS </H2>
+      <h4>  HABILIDADES E CONHECIMENTOS EM TECNOLOGIAS </h4>
 <!--foto icones das linguagens-->
   <div style="display: inline_block"><br>    
     
@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   ##
   
   <!--Redes sociais-->
-  <H2> ❤ REDES SOCIAIS </H2> 
+  <h4> REDES SOCIAIS </h4> 
   
   <div>
          <!--Youtube--> 
