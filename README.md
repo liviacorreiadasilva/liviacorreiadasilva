@@ -5,12 +5,7 @@ O meu interesse na faculdade escolhida foi após realizar um curso de Desenvolvi
 Após pesquisar sobre as amplas areás no mundo da Tecnologia, me encantei pela área de Desenvolvimento de Software e desde então venho estudando as tecnologias para trabalhar como Desenvolvedora Front-end.
 
 <br> 
-<br>
 
-<!--tela total contagem estrela-->
- <div  align="center">     
-  <a href=" https://github.com/liviacorreiadasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviacorreiadasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
          <!--conhecimento-em-linguagens-->
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviacorreiadasilva&layout=compact&langs_count=7&theme=dracula"/>
