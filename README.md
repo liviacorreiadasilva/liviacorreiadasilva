@@ -35,6 +35,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      <!--icone construct-->
      <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/C/construct-logo-DF244B4ECA-seeklogo.com.png">
+     <!--icone java-->
+     <img align="center" alt=" " height="30" width="40"
+     src="https://seeklogo.com/images/J/java-logo-A5A6D66CD2-seeklogo.com.png">
     
     
     
