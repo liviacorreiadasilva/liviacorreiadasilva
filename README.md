@@ -13,7 +13,7 @@ Ao pesquisar sobre as amplas areás no mundo da Tecnologia, e me encantei pela �
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviacorreiadasilva&layout=compact&langs_count=7&theme=dracula"/>
   
   </div>
-      HABILIDADES PARA DESENVOLVIMENTO WEB:
+      <H1> HABILIDADES E CONHECIMENTOS EM TECNOLOGIAS </H1>
 <!--foto icones das linguagens-->
   <div style="display: inline_block"><br>    
     
@@ -23,28 +23,19 @@ Ao pesquisar sobre as amplas areás no mundo da Tecnologia, e me encantei pela �
   <img align="center" alt="liviacorreiadasilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--icone javascript-->
   <img align="center" alt="liviacorreiadasilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-
-  <DIV> <BR>
-   
-  CONHECIMENTO EM LINGUAGEM DE PROGRAMAÇÃO: <BR>
     <!--icone-python-->
   <img align="center" alt="liviacorreiadasilva-Python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<BR>
-     CONHECIMENTO EM FRAMEWORK: <BR>
       <!--icone-react-->
     <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     
     
 </div>
-</div>
   
   ##
   
   <!--Redes sociais-->
-  REDES SOCIAIS 
+  <H1> REDES SOCIAIS </H1> 
   
   <div>
          <!--Youtube--> 
@@ -57,6 +48,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   <a href="https://www.linkedin.com/in/livia-correia-da-silva-6485b1231/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  </div>
-  
   <!--[Snake animation](https://github.com/liviauninove/liviacorreia/blob/output/github-contribution-grid-snake.svg)-->
+  
 
