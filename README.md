@@ -24,6 +24,9 @@ Após pesquisar sobre as amplas areás no mundo da Tecnologia, me encantei pela 
     <!--icone-python-->
   <img align="center" alt="liviacorreiadasilva-Python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--icone java-->
+     <img align="center" alt=" " height="30" width="30"
+     src="https://seeklogo.com/images/J/java-logo-A5A6D66CD2-seeklogo.com.png">
       <!--icone-react-->
     <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <!--icone vscode-->
@@ -35,9 +38,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      <!--icone construct-->
      <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/C/construct-logo-DF244B4ECA-seeklogo.com.png">
-     <!--icone java-->
-     <img align="center" alt=" " height="30" width="40"
-     src="https://seeklogo.com/images/J/java-logo-A5A6D66CD2-seeklogo.com.png">
+     
     
     
     
