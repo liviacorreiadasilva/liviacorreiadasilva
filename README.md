@@ -5,8 +5,6 @@ O meu interesse na faculdade escolhida foi após realizar um curso de Desenvolvi
 Após pesquisar sobre as amplas areás no mundo da Tecnologia, me encantei pela área de Desenvolvimento de Software e desde então venho estudando as tecnologias para trabalhar como Desenvolvedora Front-end.
 
 <br> 
-
-         <!--conhecimento-em-linguagens-->
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviacorreiadasilva&layout=compact&langs_count=7&theme=dracula"/>
   
