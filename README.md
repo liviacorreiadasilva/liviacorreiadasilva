@@ -5,7 +5,7 @@ O meu interesse na faculdade escolhida foi após realizar um curso de Desenvolvi
 Ao pesquisar sobre as amplas areás no mundo da Tecnologia, e me encantei pela área de Desenvolvimento de Software e desde então venho estudando as tecnologias para trabalhar como Desenvolvedora Front-end.
 
 <br> 
-#
+<br>
 
 <!--tela total contagem estrela-->
  <div  align="center">     
