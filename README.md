@@ -1,5 +1,7 @@
 # Livia Correia
-Estudante de Sistemas da Informção ❤︎
+❤︎ Tenho 21 anos e sou estudante de Sistemas da Informção no Centro Universitario das Faculdades Metropolitanas Unidas em São Paulo.
+O meu interesse na faculdade escolhida foi após realizar um curso de Desenvolvimento de Jogos na Etec com a duração de 6 meses, no qual tive o primeiro contato com programação usando a  plataforma Construct2 que é um editor de codigo para jogos em 2D baseada em  HTML5 (outras tecnologias como  C++,  framework javascript e sistema logico baseado em comportamento Drag-and-drop).
+Ao pesquisar sobre as amplas areás no mundo da Tecnologia, e me encantei pela área de Desenvolvimento de Software e desde então venho estudando as tecnologias para trabalhar como Desenvolvedora Front-end.
 
 
 <!--tela total contagem estrela-->
@@ -7,29 +9,34 @@ Estudante de Sistemas da Informção ❤︎
   <a href=" https://github.com/liviacorreiadasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviacorreiadasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
          <!--conhecimento-em-linguagens-->
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviacorreiadasilva&layout=compact&langs_count=7&theme=dracula"/>
   
   </div>
-   
+      HABILIDADES PARA DESENVOLVIMENTO WEB
 <!--foto icones das linguagens-->
   <div style="display: inline_block"><br>    
     <!--icone javascript-->
   <img align="center" alt="liviacorreiadasilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <!--icone-react-->
-    <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <!--icone-html-->
+
+   <!--icone-html-->
   <img align="center" alt="liviacorreiadasilva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <!--icone-css-->
   <img align="center" alt="liviacorreiadasilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <!--icone-python-->
   <img align="center" alt="liviacorreiadasilva-Python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     CONHECIMENTO EM FRAMEWORK
+      <!--icone-react-->
+    <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    
     
 </div>
   
   ##
   
   <!--Redes sociais-->
+  REDES SOCIAIS 
   
   <div>
          <!--Youtube--> 
