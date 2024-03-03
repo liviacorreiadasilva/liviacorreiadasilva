@@ -27,7 +27,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
       <!--icone-react-->
     <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <!--icone vscode-->
-    <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F323431%2Fvisual-studio-code&psig=AOvVaw0gGs0hp1NzvNAs4QoB0CHa&ust=1709568905760000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiD962-2IQDFQAAAAAdAAAAABAl">
+    <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" 
+     src=" https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
     
     
     
