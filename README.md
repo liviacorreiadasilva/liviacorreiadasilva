@@ -25,7 +25,7 @@ Após pesquisar sobre as amplas areás no mundo da Tecnologia, me encantei pela 
   <img align="center" alt="liviacorreiadasilva-Python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--icone java-->
-     <img align="center" alt=" " height="30" width="30"
+     <img align="center" alt=" " height="30" width="20"
      src="https://seeklogo.com/images/J/java-logo-B158C160FE-seeklogo.com.png">
       <!--icone-react-->
     <img align="center" alt="liviacorreiadasilva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
